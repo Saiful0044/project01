@@ -1,0 +1,385 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header{
+background: url(/image/bg.png) no-repeat;
+background-size: cover;
+
+width: 100%;
+float: left;
+
+}
+section{
+width:100% ;
+
+
+}
+
+.container{
+padding: 25px 0;
+width: 90%;
+float: left;
+
+margin: 0 5%;
+}
+.container .manu{
+margin: 0 auto;
+}
+.container .logo-part{
+width: 50%;
+float: left;
+}
+.container .nav-part{
+width: 50%;
+float: left;
+
+}
+.nav-part ul{
+list-style: none;
+}
+
+.nav-part ul a{
+float: left;
+padding: 0 10px;
+text-decoration: none;
+color: #ffffff;
+font-size: 15pt;
+font-family: Myriad Pro;
+text-align: end;
+margin: 0 38px;
+}
+
+section .dis h1{
+text-align: center;
+padding: 91px 0;
+line-height: 50px;
+}
+#sub {
+text-align: center;
+padding: 25px 0;
+}
+section .btn{
+text-align: center;
+padding: 10px 0;
+}
+.btn button[type="button"]{
+padding: 10px;
+color: #ffffff;
+background: none;
+font-size: 14pt;
+border: 1px solid #ffffff;
+border-radius: 7px;
+margin: 10px;
+width: 13%;
+}
+
+.btn button:hover{
+background: #ffffff;
+color: black;
+}
+section .imgae{
+text-align: center;
+}
+main{
+background: url(/image/bg1.png) no-repeat;
+background-size: cover;
+width: 100%;
+float: left;
+margin: -226px 0px;
+padding: 125px 0;
+}
+#sec .image-part{
+width: 40%;
+float: left;
+}
+#sec .image-part img{
+padding: 236px 150px;
+
+}
+#sec #feature-box-part{
+width: 60%;
+float: left;
+}
+#sec #feature-box-part .card{
+padding: 250px 0;
+margin: 0 105px;
+}
+
+.feature{
+box-shadow: 0 0 2px #000c;
+text-align: center;
+padding: 30px;
+}
+.feature-box{
+width: 42%;
+float: left;
+text-align: center;
+}
+.feature-box .box{
+
+}
+.one{
+position: relative;
+top: -40px;
+right: 35px;
+}
+.two{
+position: relative;
+top: 35px;
+right: 75px;
+}
+.three{
+position: relative;
+top: 40px;
+left: 35px;
+}
+.four{
+position: relative;
+top: 97px;
+left: -15px;
+}
+/* market */
+section #market{
+background: url(/image/bg2.png) no-repeat;
+background-size: cover;
+width: 100%;
+float: left;
+padding: 31px 0;
+}
+#market .marketing-part-1{
+width: 90%;
+float: left;
+margin: 0 5%;
+}
+.marketing-part-1 .info{
+width: 40%;
+float: left;
+padding: 35px 49px;
+text-align: end;
+
+}
+.info button {
+width: 43%;
+padding: 15px;
+background-color: #06e59d;
+border-radius: 7px;
+border: none;
+}
+button a{
+text-decoration: none;
+color: white;
+font-family: Myriad Pro;
+font-size: 16px;
+}
+.marketing-part-1 .menu{
+width: 60%;
+float: left;
+padding: 0px 25px;
+}
+/* menu part */
+.marketing-1 .menu{
+width: 50%;
+float: left;
+padding: 0px 25px;
+}
+.love-part img{
+float: left;
+}
+.use-part img{
+float: left;
+}
+.fully-part img{
+float: left;
+}
+.flat-part img{
+float: left;
+}
+
+.market{
+padding: 15px 30px;
+width: 75%;
+box-shadow: 0 0 5px rgb(175 154 153);
+margin: 20px 0px;
+color: #6a6d89;
+font-family: Myriad Pro;
+
+}
+.market h3{
+color: #233148;
+padding: 0 51px;
+
+}
+.market:hover{
+background:#06e59d ;
+color: #ffffff;
+}
+/* marketing-2 */
+.marketing-2{
+background:url(/image/bg3.png) no-repeat;
+background-size: cover;
+width: 100%;
+float: left;
+padding: 110px 0;
+}
+.marketing-2 .card-part{
+width: 50%;
+float: left;
+}
+.card-part img{
+margin: 0 25px;
+}
+
+.marketing-2 .content{
+width: 50%;
+float: left;
+color: #233148;
+text-align: start;
+padding: 60px 35px;
+}
+
+.content img {
+float: left;
+background: rgb(15, 82, 158);
+border-radius: 50%;
+margin: 0 21px;
+width: 3%;
+}
+.marketing-2 .content p{
+text-align: start;
+}
+.content .par h2{
+margin: 15px 0;
+}
+
+/* marketing-4 */
+.marketing-4{
+background: url(/image/bg4.png) no-repeat;
+width: 100%;
+background-size: cover;
+float: left;
+margin: -16px 0px;
+}
+.marketing-4 #mobil-part{
+width: 50%;
+float: left;
+padding: 100px 0;
+}
+#mobil-part img{
+margin: 0 128px;
+padding: 51px 0
+}
+
+.marketing-4 .content-part{
+width: 50%;
+float: left;
+padding: 208px 9px;
+}
+.marketing-4 .content-part #cont h1 {
+margin: 0 24px;
+text-align: start;
+}
+.marketing-4 .content-part img{
+margin: 0 21px;
+}
+.marketing-4 .content-part p{
+margin-right: 105px;
+}
+.app-button{
+text-align: center;
+}
+.app-button button{
+font-size: 16px;
+font-family:Myriad Pro ;
+color: #ffffff;
+padding: 10px;
+width: 20%;
+background: rgb(219, 7, 7);
+margin: -10px 0;
+border: none;
+}
+#info-subsribe{
+
+width: 90%;
+padding: 100px 130px;
+text-align: start;
+margin: 0 5%;
+}
+#info-subsribe a{
+color: black;
+text-decoration: none;
+}
+
+.info-subsribe .company{
+width: 20%;
+float: left;
+} 
+.info-subsribe .company p{
+margin-left: -26px;
+
+}
+.info-subsribe .dep{
+width: 20%;
+float: left;
+
+}
+.info-subsribe .dep p{
+margin-left: -26px;
+}
+
+.info-subsribe .comm{
+width: 20%;
+float: left;
+} 
+.info-subsribe .comm p{
+line-height: 25px;
+margin-left: -26px;
+} 
+.info-subsribe .info{
+width: 20%;
+float: left;
+}
+.info-subsribe #info p{
+margin-left: -6px;
+}
+.info-subsribe #Get{
+text-align: center;
+margin: 62px;
+}
+.count{
+text-align: center;
+}
+
+.count input{
+width: 30%;
+padding: 10px;
+background-color: rgba(101, 72, 129, 0.842);
+border: none;
+margin: 0 20px;
+}
+.count button{
+text-align: center;
+width: 10%;
+padding: 10px;
+border: none;
+background-color: #0d4baf;
+}
+.footer{
+padding: 20px;
+margin-top: 40px;
+width: 100%;
+background: #233148;
+}
+.footer p{
+color: #ffffff;
+width: 50%;
+float: left;
+}
+.footer #image{
+margin: 0 20px;
+text-align: end;
+}
+.footer img{
+margin: 0 15px;
+}
